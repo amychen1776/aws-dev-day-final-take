@@ -36,6 +36,8 @@ sources:
             data_type: varchar(255)  
           - name: l_linestatus
             data_type: varchar(255)   
+          - name: l_shipmode
+            data_type: varchar(255)             
           - name: l_shipdate
             data_type: timestamp  
           - name: l_commitdate
